@@ -4630,3 +4630,2635 @@ INFO 2023-04-14 19:38:35,606 Watching for file changes with StatReloader
 INFO 2023-04-14 19:39:04,726 "GET /site-config HTTP/1.1" 200 11139
 INFO 2023-04-14 19:39:08,378 "GET /student/list HTTP/1.1" 200 11030
 INFO 2023-04-14 19:39:10,825 "GET / HTTP/1.1" 200 12911
+INFO 2023-05-06 20:12:11,208 Watching for file changes with StatReloader
+INFO 2023-05-06 20:12:18,532 "GET / HTTP/1.1" 302 0
+INFO 2023-05-06 20:12:19,132 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-06 20:12:20,132 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2023-05-06 20:12:20,372 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-05-06 20:12:20,452 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2023-05-06 20:12:20,540 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2023-05-06 20:12:21,622 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2023-05-06 20:12:21,622 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2023-05-06 20:12:21,630 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2023-05-06 20:12:21,630 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2023-05-06 20:12:21,670 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2023-05-06 20:12:21,838 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2023-05-06 20:12:21,990 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2023-05-06 20:12:22,038 "GET /static/dist/img/login.png HTTP/1.1" 200 48197
+INFO 2023-05-06 20:12:22,126 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2023-05-06 20:12:22,630 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2023-05-06 20:12:30,385 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:12:30,769 "GET / HTTP/1.1" 200 13157
+INFO 2023-05-06 20:12:31,065 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2023-05-06 20:12:31,737 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-05-06 20:12:32,761 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2023-05-06 20:12:35,572 "GET /student/list HTTP/1.1" 200 11276
+INFO 2023-05-06 20:12:37,924 "GET /student/create/ HTTP/1.1" 200 14094
+INFO 2023-05-06 20:12:48,934 "GET /source/list/ HTTP/1.1" 200 11341
+INFO 2023-05-06 20:13:02,196 "POST /class/create/ HTTP/1.1" 200 10383
+INFO 2023-05-06 20:13:15,429 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:13:15,562 "GET /class/list/ HTTP/1.1" 200 12316
+INFO 2023-05-06 20:13:21,416 "GET /class/3/delete/ HTTP/1.1" 200 10470
+INFO 2023-05-06 20:13:22,952 "POST /class/3/delete/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:13:23,073 "GET /class/list/ HTTP/1.1" 200 11892
+INFO 2023-05-06 20:19:12,069 Watching for file changes with StatReloader
+INFO 2023-05-06 20:19:16,898 "GET /class/list/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:19:16,943 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-06 20:19:17,019 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,052 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,100 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,113 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,114 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,118 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,128 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,131 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,136 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,160 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,163 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,175 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,178 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:17,736 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:24,530 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:19:24,796 "GET / HTTP/1.1" 200 13166
+INFO 2023-05-06 20:19:25,485 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:25,636 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:25,674 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:19:30,059 "GET /source/list/ HTTP/1.1" 200 11357
+INFO 2023-05-06 20:19:35,517 "POST /class/create/ HTTP/1.1" 200 10399
+INFO 2023-05-06 20:19:43,149 "GET /student/list HTTP/1.1" 200 10447
+INFO 2023-05-06 20:19:45,093 "GET /student/create/ HTTP/1.1" 200 17109
+INFO 2023-05-06 20:20:17,416 "GET /source/list/ HTTP/1.1" 200 11357
+INFO 2023-05-06 20:20:59,045 "GET /source/list/ HTTP/1.1" 200 10713
+INFO 2023-05-06 20:21:57,275 "GET /source/list/ HTTP/1.1" 200 10774
+INFO 2023-05-06 20:22:02,382 "GET /source/list/ HTTP/1.1" 200 10774
+INFO 2023-05-06 20:22:02,485 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,501 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,507 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,508 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,516 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,521 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,523 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,528 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,532 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,551 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:02,558 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:08,144 "GET /subject/list/ HTTP/1.1" 200 11307
+INFO 2023-05-06 20:22:08,249 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:08,265 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:22:11,342 "GET /class/list/ HTTP/1.1" 200 11325
+INFO 2023-05-06 20:22:42,322 "GET /source/list/ HTTP/1.1" 200 10774
+INFO 2023-05-06 20:25:04,236 D:\Django Projects\revenue_app-1\apps\corecode\views.py changed, reloading.
+INFO 2023-05-06 20:25:14,600 Watching for file changes with StatReloader
+INFO 2023-05-06 20:25:21,007 "GET /source/list/ HTTP/1.1" 200 10774
+INFO 2023-05-06 20:25:21,102 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,124 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,145 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,150 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,162 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,167 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,175 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,184 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,188 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,190 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,206 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,211 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,224 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,345 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:21,360 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:25:26,415 "POST /class/create/ HTTP/1.1" 200 9816
+INFO 2023-05-06 20:27:37,686 "POST /class/create/ HTTP/1.1" 200 9816
+INFO 2023-05-06 20:27:44,042 "GET /source/create/ HTTP/1.1" 200 9749
+INFO 2023-05-06 20:27:48,134 "POST /source/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:27:48,368 "GET /source/list/ HTTP/1.1" 200 11201
+INFO 2023-05-06 20:27:53,753 "GET /source/1/update/ HTTP/1.1" 200 9744
+INFO 2023-05-06 20:27:58,466 "GET /source/1/delete/ HTTP/1.1" 200 9903
+INFO 2023-05-06 20:28:00,194 "POST /source/1/delete/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:28:00,602 "GET /source/list/ HTTP/1.1" 200 10774
+INFO 2023-05-06 20:28:43,512 "GET /source/list/ HTTP/1.1" 200 10788
+INFO 2023-05-06 20:28:43,639 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,655 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,673 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,702 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,710 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,717 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,732 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,741 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,767 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,804 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,810 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,813 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:43,816 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:28:49,466 "POST /class/create/ HTTP/1.1" 200 9816
+INFO 2023-05-06 20:30:13,742 "GET /source/list/ HTTP/1.1" 200 10789
+INFO 2023-05-06 20:30:18,908 "POST /source/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:30:19,013 "GET /source/list/ HTTP/1.1" 200 11216
+INFO 2023-05-06 20:30:22,426 "GET /student/list HTTP/1.1" 200 9864
+INFO 2023-05-06 20:30:24,776 "GET /student/create/ HTTP/1.1" 200 16564
+INFO 2023-05-06 20:31:22,053 "GET /class/list/ HTTP/1.1" 200 11325
+INFO 2023-05-06 20:31:26,994 "GET /subject/list/ HTTP/1.1" 200 11307
+INFO 2023-05-06 20:31:29,341 "GET /source/list/ HTTP/1.1" 200 11072
+INFO 2023-05-06 20:31:33,595 "GET /student/list HTTP/1.1" 200 9864
+INFO 2023-05-06 20:31:35,219 "GET /student/create/ HTTP/1.1" 200 16564
+INFO 2023-05-06 20:32:50,465 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 20:32:57,974 Watching for file changes with StatReloader
+INFO 2023-05-06 20:33:30,036 Watching for file changes with StatReloader
+INFO 2023-05-06 20:33:34,519 "GET /student/create/ HTTP/1.1" 200 16915
+INFO 2023-05-06 20:33:34,632 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,663 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,687 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,723 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,738 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,747 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,754 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,756 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,795 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,798 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,799 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,800 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:33:34,936 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:34:34,967 "GET / HTTP/1.1" 200 12583
+INFO 2023-05-06 20:34:43,991 "GET /site-config HTTP/1.1" 200 10091
+INFO 2023-05-06 20:34:51,623 "GET /revenue/revenue HTTP/1.1" 200 9929
+INFO 2023-05-06 20:34:53,434 "GET /finance/list/ HTTP/1.1" 200 9735
+INFO 2023-05-06 20:34:55,689 "GET /staff/list/ HTTP/1.1" 200 9674
+INFO 2023-05-06 20:34:57,634 "GET /student/list HTTP/1.1" 200 9864
+INFO 2023-05-06 20:35:53,990 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:35:58,679 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:36:01,081 "GET /student/create/ HTTP/1.1" 200 16624
+INFO 2023-05-06 20:36:06,780 "GET /staff/list/ HTTP/1.1" 200 9383
+INFO 2023-05-06 20:36:08,306 "GET /staff/create/ HTTP/1.1" 200 12480
+INFO 2023-05-06 20:36:12,047 "GET /finance/list/ HTTP/1.1" 200 9444
+INFO 2023-05-06 20:36:17,224 "GET /finance/create/ HTTP/1.1" 200 12923
+INFO 2023-05-06 20:38:30,596 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:38:30,716 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,732 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,751 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,755 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,768 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,773 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,785 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,797 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,820 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,822 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:30,934 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:31,138 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:31,145 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:31,337 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:31,342 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:38:33,495 "GET /student/create/ HTTP/1.1" 200 16624
+INFO 2023-05-06 20:40:03,732 "GET /finance/list/ HTTP/1.1" 200 9444
+INFO 2023-05-06 20:40:05,792 "GET /finance/create/ HTTP/1.1" 200 12923
+INFO 2023-05-06 20:40:26,699 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-06 20:40:30,406 Watching for file changes with StatReloader
+INFO 2023-05-06 20:40:33,944 "GET /finance/create/ HTTP/1.1" 200 11378
+INFO 2023-05-06 20:43:33,678 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-06 20:43:33,966 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:33,990 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:34,494 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:34,678 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:34,678 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:34,854 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,238 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,238 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,366 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,470 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,486 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,582 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:35,694 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:43:38,871 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:43:41,035 "GET /student/create/ HTTP/1.1" 200 16624
+INFO 2023-05-06 20:44:14,549 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:44:21,192 "GET /finance/list/ HTTP/1.1" 200 9444
+INFO 2023-05-06 20:44:23,191 "GET /finance/create/ HTTP/1.1" 200 11378
+INFO 2023-05-06 20:44:44,564 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:44:47,943 "GET /student/create/ HTTP/1.1" 200 16624
+INFO 2023-05-06 20:45:05,275 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:45:06,635 "GET /finance/list/ HTTP/1.1" 200 9444
+INFO 2023-05-06 20:45:12,279 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:46:07,367 "GET /student/list HTTP/1.1" 200 9573
+INFO 2023-05-06 20:47:58,216 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 20:49:20,288 Watching for file changes with StatReloader
+ERROR 2023-05-06 20:49:25,159 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.Course_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\views.py", line 22, in slist
+    return render(request, template_name , context={"students":Student.objects.all()})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 194, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.Course_id
+ERROR 2023-05-06 20:49:25,191 "GET /student/list HTTP/1.1" 500 247501
+ERROR 2023-05-06 20:50:46,559 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.Course_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\views.py", line 22, in slist
+    return render(request, template_name , context={"students":Student.objects.all()})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 194, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.Course_id
+ERROR 2023-05-06 20:50:46,575 "GET /student/list HTTP/1.1" 500 247487
+INFO 2023-05-06 20:53:32,174 Watching for file changes with StatReloader
+ERROR 2023-05-06 20:53:35,918 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.Course_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\views.py", line 22, in slist
+    return render(request, template_name , context={"students":Student.objects.all()})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 194, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.Course_id
+ERROR 2023-05-06 20:53:35,942 "GET /student/list HTTP/1.1" 500 247487
+ERROR 2023-05-06 20:53:41,516 Internal Server Error: /finance/create/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.Course_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\widget_tweaks\templatetags\widget_tweaks.py", line 36, in as_widget
+    html = old_as_widget(widget, attrs, only_initial)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\boundfield.py", line 107, in as_widget
+    return widget.render(
+           ^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\widgets.py", line 280, in render
+    context = self.get_context(name, value, attrs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\widgets.py", line 758, in get_context
+    context = super().get_context(name, value, attrs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\widgets.py", line 717, in get_context
+    context["widget"]["optgroups"] = self.optgroups(
+                                     ^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\widgets.py", line 657, in optgroups
+    for index, (option_value, option_label) in enumerate(self.choices):
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 1403, in __iter__
+    for obj in queryset:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 516, in _iterator
+    yield from iterable
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.Course_id
+ERROR 2023-05-06 20:53:41,532 "GET /finance/create/ HTTP/1.1" 500 303268
+ERROR 2023-05-06 20:53:47,958 Internal Server Error: /student/list
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.Course_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\views.py", line 22, in slist
+    return render(request, template_name , context={"students":Student.objects.all()})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 194, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.Course_id
+ERROR 2023-05-06 20:53:47,966 "GET /student/list HTTP/1.1" 500 247351
+INFO 2023-05-06 20:54:14,624 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 20:54:27,897 Watching for file changes with StatReloader
+INFO 2023-05-06 20:58:59,971 Watching for file changes with StatReloader
+INFO 2023-05-06 20:59:03,383 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-06 20:59:03,551 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,567 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,607 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,687 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,711 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,719 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,727 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,743 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,815 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:03,967 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:04,095 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:04,159 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:04,167 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:04,279 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:04,279 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 20:59:07,761 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 20:59:40,937 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 20:59:41,113 "GET /student/1/ HTTP/1.1" 200 10872
+INFO 2023-05-06 20:59:42,018 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2023-05-06 20:59:48,612 "GET /student/list HTTP/1.1" 200 9839
+INFO 2023-05-06 20:59:55,614 "GET /student/1/ HTTP/1.1" 200 10726
+INFO 2023-05-06 20:59:59,822 "GET /student/1/ HTTP/1.1" 200 10726
+INFO 2023-05-06 21:00:21,781 "GET /student/list HTTP/1.1" 200 9839
+INFO 2023-05-06 21:00:25,206 "GET /student/list HTTP/1.1" 200 9839
+INFO 2023-05-06 21:00:27,137 "GET /student/1/ HTTP/1.1" 200 10726
+INFO 2023-05-06 21:00:47,177 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:00:49,994 "GET /student/1/ HTTP/1.1" 200 10726
+INFO 2023-05-06 21:01:00,727 "GET /student/1/ HTTP/1.1" 200 10726
+INFO 2023-05-06 21:05:26,841 "GET /student/1/ HTTP/1.1" 200 11348
+INFO 2023-05-06 21:06:07,790 "GET /student/1/update/ HTTP/1.1" 200 16743
+INFO 2023-05-06 21:06:07,957 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:07,989 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:07,997 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,021 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,029 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,045 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,045 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,101 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,101 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,125 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,141 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,157 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:08,165 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:06:44,192 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:06:46,904 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 21:07:12,636 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 21:07:12,761 "GET /student/2/ HTTP/1.1" 200 11481
+INFO 2023-05-06 21:07:12,865 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-06 21:07:16,938 "GET /student/list HTTP/1.1" 200 10117
+INFO 2023-05-06 21:08:22,245 "GET /student/1/ HTTP/1.1" 200 11348
+INFO 2023-05-06 21:08:24,176 "GET /student/delete/1/ HTTP/1.1" 200 9220
+INFO 2023-05-06 21:08:26,841 "POST /student/delete/1/ HTTP/1.1" 302 0
+INFO 2023-05-06 21:08:26,998 "GET /student/list HTTP/1.1" 200 9837
+INFO 2023-05-06 21:08:29,600 "GET /student/2/ HTTP/1.1" 200 11335
+INFO 2023-05-06 21:08:31,883 "GET /student/delete/2/ HTTP/1.1" 200 9214
+INFO 2023-05-06 21:08:33,639 "POST /student/delete/2/ HTTP/1.1" 302 0
+INFO 2023-05-06 21:08:33,759 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-06 21:08:48,539 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-06 21:08:51,430 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-06 21:08:54,950 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-06 21:09:02,656 "GET /finance/list/ HTTP/1.1" 200 9444
+INFO 2023-05-06 21:10:49,873 "GET /finance/create/ HTTP/1.1" 200 11378
+INFO 2023-05-06 21:11:09,288 "GET /finance/create/ HTTP/1.1" 200 11378
+INFO 2023-05-06 21:11:14,122 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-06 21:11:16,634 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 21:11:42,704 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 21:11:42,856 "GET /student/3/ HTTP/1.1" 200 11491
+INFO 2023-05-06 21:11:51,966 "GET /finance/list/ HTTP/1.1" 200 9422
+INFO 2023-05-06 21:11:53,656 "GET /finance/create/ HTTP/1.1" 200 11427
+INFO 2023-05-06 21:12:13,960 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-05-06 21:12:14,453 "GET /finance/list HTTP/1.1" 301 0
+ERROR 2023-05-06 21:12:14,757 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\finance\models.py", line 33, in total_amount_payable
+    return self.balance_from_previous_term + self.amount_payable()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Invoice' object has no attribute 'balance_from_previous_term'
+ERROR 2023-05-06 21:12:14,765 "GET /finance/list/ HTTP/1.1" 500 206044
+INFO 2023-05-06 21:13:30,575 D:\Django Projects\revenue_app-1\apps\finance\views.py changed, reloading.
+INFO 2023-05-06 21:13:34,859 Watching for file changes with StatReloader
+ERROR 2023-05-06 21:13:45,520 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\finance\models.py", line 33, in total_amount_payable
+    return self.balance_from_previous_term + self.amount_payable()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Invoice' object has no attribute 'balance_from_previous_term'
+ERROR 2023-05-06 21:13:45,528 "GET /finance/list/ HTTP/1.1" 500 206044
+INFO 2023-05-06 21:14:14,148 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-06 21:14:24,366 Watching for file changes with StatReloader
+INFO 2023-05-06 21:14:30,461 "GET /finance/list/ HTTP/1.1" 200 9805
+INFO 2023-05-06 21:14:30,637 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,765 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,781 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,797 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,805 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,805 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,813 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,821 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,829 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,877 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,933 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:30,997 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:31,061 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:31,685 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:31,693 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:14:39,664 "GET /finance/1/detail/ HTTP/1.1" 200 10576
+INFO 2023-05-06 21:14:52,610 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10714
+INFO 2023-05-06 21:14:59,166 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2023-05-06 21:14:59,336 "GET /finance/list/ HTTP/1.1" 200 9808
+INFO 2023-05-06 21:15:06,220 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10717
+INFO 2023-05-06 21:15:13,968 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2023-05-06 21:15:14,112 "GET /finance/list/ HTTP/1.1" 200 9808
+INFO 2023-05-06 21:22:40,397 "GET /finance/1/detail/ HTTP/1.1" 200 10829
+INFO 2023-05-06 21:22:49,653 "GET /finance/1/update/ HTTP/1.1" 200 14743
+INFO 2023-05-06 21:22:49,797 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,821 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,853 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,853 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,869 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,893 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,893 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,901 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,933 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,933 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,957 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,973 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:49,989 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:50,245 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:50,269 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:22:58,949 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:23:01,791 "GET /student/3/ HTTP/1.1" 200 11825
+INFO 2023-05-06 21:23:01,951 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-06 21:23:46,350 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:23:53,668 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 21:24:05,877 "GET /finance/list/ HTTP/1.1" 200 9808
+INFO 2023-05-06 21:24:20,652 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10717
+INFO 2023-05-06 21:27:48,782 D:\Django Projects\revenue_app-1\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2023-05-06 21:28:08,618 Watching for file changes with StatReloader
+INFO 2023-05-06 21:28:41,164 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10675
+INFO 2023-05-06 21:28:53,729 "GET /finance/list/ HTTP/1.1" 200 9808
+ERROR 2023-05-06 21:29:07,207 Internal Server Error: /revenue/month
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\revenue\views.py", line 48, in month_income
+    return render(request ,"month.html",context={
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\finance\models.py", line 65, in name
+    return self.invoice.student.surname
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Student' object has no attribute 'surname'
+ERROR 2023-05-06 21:29:07,223 "GET /revenue/month HTTP/1.1" 500 204039
+ERROR 2023-05-06 21:29:23,116 Internal Server Error: /revenue/revenue
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\revenue\views.py", line 55, in all_income
+    return render(request ,"revenue.html",context={
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\finance\models.py", line 65, in name
+    return self.invoice.student.surname
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Student' object has no attribute 'surname'
+ERROR 2023-05-06 21:29:23,132 "GET /revenue/revenue HTTP/1.1" 500 203365
+INFO 2023-05-06 21:33:19,191 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-06 21:33:24,583 Watching for file changes with StatReloader
+INFO 2023-05-06 21:33:29,455 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-06 21:33:34,830 Watching for file changes with StatReloader
+INFO 2023-05-06 21:33:36,073 "GET /revenue/revenue HTTP/1.1" 200 10196
+INFO 2023-05-06 21:33:36,289 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,297 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,313 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,321 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,329 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,337 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,369 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,369 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,401 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,401 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,417 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,425 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:36,433 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:37,089 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:37,113 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 21:33:40,404 "GET /revenue/revenue HTTP/1.1" 200 10196
+INFO 2023-05-06 21:33:42,947 "GET /revenue/today HTTP/1.1" 200 10656
+INFO 2023-05-06 21:33:44,758 "GET /revenue/month HTTP/1.1" 200 11303
+INFO 2023-05-06 21:33:48,395 "GET /revenue/month?month=4 HTTP/1.1" 200 10745
+INFO 2023-05-06 21:33:51,656 "GET /revenue/revenue HTTP/1.1" 200 10196
+INFO 2023-05-06 21:33:55,276 "GET / HTTP/1.1" 200 12299
+INFO 2023-05-06 21:33:59,630 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:34:06,716 "GET /finance/list/ HTTP/1.1" 200 9808
+INFO 2023-05-06 21:34:09,254 "GET /revenue/today HTTP/1.1" 200 10656
+INFO 2023-05-06 21:34:12,668 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 21:34:15,058 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 21:44:40,595 "GET /student/download-csv/ HTTP/1.1" 200 94
+INFO 2023-05-06 21:50:20,743 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-06 21:50:29,874 Watching for file changes with StatReloader
+INFO 2023-05-06 22:06:08,430 Watching for file changes with StatReloader
+INFO 2023-05-06 22:06:19,878 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 22:06:21,681 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:21,696 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,026 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,204 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,430 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,433 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,465 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,670 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,673 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,674 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,696 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,865 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:22,990 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:23,792 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 22:06:23,797 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 22:07:06,004 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 22:07:13,662 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 22:07:23,183 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-06 22:07:23,596 "GET /student/list HTTP/1.1" 200 9987
+INFO 2023-05-06 22:07:34,037 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 22:07:37,556 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 22:08:18,703 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 22:08:32,701 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-06 22:08:33,190 "GET /student/list HTTP/1.1" 200 9987
+INFO 2023-05-06 22:09:03,332 "GET /student/create/ HTTP/1.1" 200 16592
+INFO 2023-05-06 22:10:18,768 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 22:12:13,089 Watching for file changes with StatReloader
+INFO 2023-05-06 22:12:21,208 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 22:12:23,241 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 22:12:33,447 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-06 22:12:33,711 "GET /student/list HTTP/1.1" 200 9987
+INFO 2023-05-06 22:12:40,745 "GET /student/3/ HTTP/1.1" 200 11825
+INFO 2023-05-06 22:12:40,881 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-06 22:12:43,429 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 22:15:53,690 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-06 22:16:09,281 Watching for file changes with StatReloader
+INFO 2023-05-06 22:23:37,415 "GET /student/3/ HTTP/1.1" 200 11825
+INFO 2023-05-06 22:23:37,512 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,623 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,634 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,701 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,782 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,782 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,782 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,790 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,806 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,830 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,830 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,830 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:37,838 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:38,062 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 22:23:38,062 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 22:28:02,805 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-06 22:28:11,794 Watching for file changes with StatReloader
+INFO 2023-05-06 22:38:46,786 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-06 22:38:46,986 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,018 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,018 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,090 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,090 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,154 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,162 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,170 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,178 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,266 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,338 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,434 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,610 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,818 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-06 22:38:47,818 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+ERROR 2023-05-06 22:38:56,315 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 65, in create_bulk_student
+    Student(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'sat'": "Student.Source" must be a "scheme" instance.
+ERROR 2023-05-06 22:38:56,331 "POST /student/upload/ HTTP/1.1" 500 136754
+INFO 2023-05-06 22:40:16,031 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-06 22:40:26,236 Watching for file changes with StatReloader
+ERROR 2023-05-06 22:40:29,991 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 81, in create_bulk_student
+    Student.objects.bulk_create(students)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1831, in _batched_insert
+    self._insert(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1819, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1743, in as_sql
+    value_rows = [
+                 ^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1744, in <listcomp>
+    [
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1745, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1684, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1469, in get_db_prep_value
+    value = self.get_prep_value(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1464, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1430, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['“05-Apr-23” value has an invalid date format. It must be in YYYY-MM-DD format.']
+ERROR 2023-05-06 22:40:30,015 "POST /student/upload/ HTTP/1.1" 500 195058
+INFO 2023-05-06 22:43:01,988 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 22:43:08,505 Watching for file changes with StatReloader
+INFO 2023-05-06 22:43:56,477 D:\Django Projects\revenue_app-1\csc_app\settings.py changed, reloading.
+INFO 2023-05-06 22:46:15,346 Watching for file changes with StatReloader
+INFO 2023-05-06 22:47:07,496 "GET / HTTP/1.1" 200 12299
+INFO 2023-05-06 22:47:10,220 "GET /student/list HTTP/1.1" 200 9842
+INFO 2023-05-06 22:47:11,965 "GET /student/upload/ HTTP/1.1" 200 9628
+ERROR 2023-05-06 22:47:20,957 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 81, in create_bulk_student
+    Student.objects.bulk_create(students)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1831, in _batched_insert
+    self._insert(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1819, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1743, in as_sql
+    value_rows = [
+                 ^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1744, in <listcomp>
+    [
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1745, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1684, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 2062, in get_db_prep_value
+    value = super().get_db_prep_value(value, connection, prepared)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_db_prep_value
+    value = self.get_prep_value(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 2057, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'aadhar_no' expected a number but got ''.
+ERROR 2023-05-06 22:47:20,973 "POST /student/upload/ HTTP/1.1" 500 200013
+ERROR 2023-05-06 22:49:18,226 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: students_student.guardian_occ
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 81, in create_bulk_student
+    Student.objects.bulk_create(students)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1831, in _batched_insert
+    self._insert(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: students_student.guardian_occ
+ERROR 2023-05-06 22:49:18,242 "POST /student/upload/ HTTP/1.1" 500 223653
+ERROR 2023-05-06 22:50:30,674 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: students_student.guardian_occ
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 81, in create_bulk_student
+    Student.objects.bulk_create(students)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1831, in _batched_insert
+    self._insert(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: students_student.guardian_occ
+ERROR 2023-05-06 22:50:30,682 "POST /student/upload/ HTTP/1.1" 500 223653
+INFO 2023-05-06 22:52:32,456 D:\Django Projects\revenue_app-1\apps\students\models.py changed, reloading.
+INFO 2023-05-06 22:52:37,207 Watching for file changes with StatReloader
+INFO 2023-05-06 22:53:19,398 Watching for file changes with StatReloader
+INFO 2023-05-06 22:53:31,587 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-06 22:53:32,651 "GET /student/list HTTP/1.1" 200 11356
+INFO 2023-05-06 22:53:44,207 "GET /student/4/ HTTP/1.1" 200 11343
+INFO 2023-05-06 22:53:44,375 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-06 22:53:52,637 "GET /finance/list/ HTTP/1.1" 200 9808
+INFO 2023-05-06 22:53:57,000 "GET /finance/create/ HTTP/1.1" 200 11730
+INFO 2023-05-06 22:54:05,448 "GET /source/list/ HTTP/1.1" 200 12176
+INFO 2023-05-06 22:54:10,337 "GET /subject/list/ HTTP/1.1" 200 11016
+INFO 2023-05-06 22:54:12,987 "GET /student/list HTTP/1.1" 200 11211
+INFO 2023-05-07 09:13:32,454 Watching for file changes with StatReloader
+INFO 2023-05-07 09:13:54,503 "GET /student/list HTTP/1.1" 302 0
+INFO 2023-05-07 09:13:54,505 "GET / HTTP/1.1" 302 0
+INFO 2023-05-07 09:13:54,868 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 09:13:54,891 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 09:13:55,037 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,038 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,046 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,046 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,049 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,447 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,448 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,457 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,458 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,523 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,524 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,540 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:55,555 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:56,157 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-07 09:13:56,463 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2023-05-07 09:13:56,537 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 09:13:57,306 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2023-05-07 09:13:57,321 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 09:14:06,334 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:07,320 "GET / HTTP/1.1" 200 12299
+INFO 2023-05-07 09:14:07,435 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 09:14:07,490 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 09:14:08,333 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+WARNING 2023-05-07 09:14:10,284 Not Found: /favicon.ico
+WARNING 2023-05-07 09:14:10,284 "GET /favicon.ico HTTP/1.1" 404 7166
+INFO 2023-05-07 09:14:12,734 "GET /student/list HTTP/1.1" 200 11211
+INFO 2023-05-07 09:14:16,585 "GET /student/3/ HTTP/1.1" 200 11825
+INFO 2023-05-07 09:14:16,676 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-07 09:14:23,153 "GET /student/delete/3/ HTTP/1.1" 200 9220
+INFO 2023-05-07 09:14:24,871 "POST /student/delete/3/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:24,986 "GET /student/list HTTP/1.1" 200 10931
+INFO 2023-05-07 09:14:27,311 "GET /student/4/ HTTP/1.1" 200 11343
+INFO 2023-05-07 09:14:29,389 "GET /student/delete/4/ HTTP/1.1" 200 9226
+INFO 2023-05-07 09:14:31,862 "POST /student/delete/4/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:32,559 "GET /student/list HTTP/1.1" 200 10656
+INFO 2023-05-07 09:14:35,470 "GET /student/5/ HTTP/1.1" 200 11339
+INFO 2023-05-07 09:14:38,168 "GET /student/delete/5/ HTTP/1.1" 200 9224
+INFO 2023-05-07 09:14:39,921 "POST /student/delete/5/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:40,102 "GET /student/list HTTP/1.1" 200 10383
+INFO 2023-05-07 09:14:42,353 "GET /student/6/ HTTP/1.1" 200 11343
+INFO 2023-05-07 09:14:48,742 "GET /student/delete/6/ HTTP/1.1" 200 9226
+INFO 2023-05-07 09:14:50,176 "POST /student/delete/6/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:50,333 "GET /student/list HTTP/1.1" 200 10108
+INFO 2023-05-07 09:14:52,487 "GET /student/7/ HTTP/1.1" 200 11339
+INFO 2023-05-07 09:14:54,358 "GET /student/delete/7/ HTTP/1.1" 200 9224
+INFO 2023-05-07 09:14:55,748 "POST /student/delete/7/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:14:55,865 "GET /student/list HTTP/1.1" 200 9835
+INFO 2023-05-07 09:14:58,034 "GET /student/8/ HTTP/1.1" 200 11339
+INFO 2023-05-07 09:14:59,576 "GET /student/delete/8/ HTTP/1.1" 200 9224
+INFO 2023-05-07 09:15:01,282 "POST /student/delete/8/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:15:01,389 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-07 09:19:22,385 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-07 09:19:30,741 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:19:30,840 "GET /student/list HTTP/1.1" 200 10532
+INFO 2023-05-07 09:19:34,029 "GET /student/9/ HTTP/1.1" 200 11343
+INFO 2023-05-07 09:20:18,610 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-07 09:20:26,332 Watching for file changes with StatReloader
+INFO 2023-05-07 09:44:35,822 "GET /student/9/update/ HTTP/1.1" 200 16961
+INFO 2023-05-07 09:45:11,223 "GET /student/delete/9/ HTTP/1.1" 200 9226
+INFO 2023-05-07 09:45:14,188 "POST /student/delete/9/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:45:14,416 "GET /student/list HTTP/1.1" 200 10112
+INFO 2023-05-07 09:45:17,390 "GET /student/10/ HTTP/1.1" 200 11341
+INFO 2023-05-07 09:45:19,292 "GET /student/delete/10/ HTTP/1.1" 200 9224
+INFO 2023-05-07 09:45:20,802 "POST /student/delete/10/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:45:20,958 "GET /student/list HTTP/1.1" 200 9838
+INFO 2023-05-07 09:45:23,190 "GET /student/11/ HTTP/1.1" 200 11345
+INFO 2023-05-07 09:45:24,955 "GET /student/delete/11/ HTTP/1.1" 200 9226
+INFO 2023-05-07 09:45:26,535 "POST /student/delete/11/ HTTP/1.1" 302 0
+INFO 2023-05-07 09:45:26,670 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-07 09:48:02,881 D:\Django Projects\revenue_app-1\apps\students\urls.py changed, reloading.
+INFO 2023-05-07 09:48:13,724 Watching for file changes with StatReloader
+INFO 2023-05-07 09:48:18,689 "GET /student/create/ HTTP/1.1" 200 16904
+ERROR 2023-05-07 09:48:37,375 Internal Server Error: /student/create/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 136, in form_valid
+    return super().form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 65, in form_valid
+    return HttpResponseRedirect(self.get_success_url())
+                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 125, in get_success_url
+    url = self.object.get_absolute_url()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\models.py", line 83, in get_absolute_url
+    return reverse("student-detail", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'student-detail' with keyword arguments '{'pk': 12}' not found. 1 pattern(s) tried: ['student/(?P<enrollment_number>[0-9]+)/\\Z']
+ERROR 2023-05-07 09:48:37,395 "POST /student/create/ HTTP/1.1" 500 122902
+INFO 2023-05-07 09:50:30,216 "POST /student/create/ HTTP/1.1" 200 17111
+ERROR 2023-05-07 09:50:37,975 Internal Server Error: /student/create/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 136, in form_valid
+    return super().form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 65, in form_valid
+    return HttpResponseRedirect(self.get_success_url())
+                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 125, in get_success_url
+    url = self.object.get_absolute_url()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\models.py", line 83, in get_absolute_url
+    return reverse("student-detail", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'student-detail' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['student/(?P<enrollment_number>[0-9]+)/\\Z']
+ERROR 2023-05-07 09:50:37,988 "POST /student/create/ HTTP/1.1" 500 122902
+INFO 2023-05-07 10:20:23,770 "GET /student/list HTTP/1.1" 200 10128
+ERROR 2023-05-07 10:20:26,785 Internal Server Error: /student/101/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\detail.py", line 46, in get_object
+    raise AttributeError(
+AttributeError: Generic detail view StudentDetailView must be called with either an object pk or a slug in the URLconf.
+ERROR 2023-05-07 10:20:26,789 "GET /student/101/ HTTP/1.1" 500 85482
+INFO 2023-05-07 10:21:30,073 D:\Django Projects\revenue_app-1\apps\students\urls.py changed, reloading.
+INFO 2023-05-07 10:21:34,938 Watching for file changes with StatReloader
+WARNING 2023-05-07 10:21:52,173 Not Found: /student/101/
+WARNING 2023-05-07 10:21:52,175 "GET /student/101/ HTTP/1.1" 404 7055
+INFO 2023-05-07 10:23:09,523 D:\Django Projects\revenue_app-1\apps\students\urls.py changed, reloading.
+INFO 2023-05-07 10:23:16,689 Watching for file changes with StatReloader
+ERROR 2023-05-07 10:23:43,721 Internal Server Error: /student/101/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\detail.py", line 46, in get_object
+    raise AttributeError(
+AttributeError: Generic detail view StudentDetailView must be called with either an object pk or a slug in the URLconf.
+ERROR 2023-05-07 10:23:43,728 "GET /student/101/ HTTP/1.1" 500 85619
+INFO 2023-05-07 18:18:04,166 Watching for file changes with StatReloader
+INFO 2023-05-07 18:18:22,005 "GET / HTTP/1.1" 302 0
+INFO 2023-05-07 18:18:28,760 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 18:18:29,313 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,337 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,345 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,377 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,401 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,449 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,975 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,975 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:29,975 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:30,199 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:30,199 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:30,199 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:30,199 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:31,887 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:48,762 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:18:49,994 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-07 18:18:50,218 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:50,234 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-05-07 18:18:51,722 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-05-07 18:19:19,925 "GET /student/list HTTP/1.1" 200 10128
+INFO 2023-05-07 18:24:15,268 "GET /student/list HTTP/1.1" 200 10128
+INFO 2023-05-07 18:24:19,050 "GET /student/create/ HTTP/1.1" 200 16904
+INFO 2023-05-07 18:25:34,691 "GET /finance/list/ HTTP/1.1" 200 9422
+INFO 2023-05-07 18:25:38,623 "GET /finance/create/ HTTP/1.1" 200 11512
+INFO 2023-05-07 18:25:48,683 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:25:49,155 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-05-07 18:25:49,361 "GET /finance/list/ HTTP/1.1" 200 9803
+INFO 2023-05-07 18:25:53,656 "GET /finance/receipt/create?invoice=2 HTTP/1.1" 200 10670
+INFO 2023-05-07 18:26:03,828 "GET / HTTP/1.1" 200 12298
+INFO 2023-05-07 18:26:06,670 "GET /student/list HTTP/1.1" 200 10128
+INFO 2023-05-07 18:27:32,743 D:\Django Projects\revenue_app-1\apps\students\views.py changed, reloading.
+INFO 2023-05-07 18:27:41,702 Watching for file changes with StatReloader
+INFO 2023-05-07 18:38:23,552 D:\Django Projects\revenue_app-1\apps\students\views.py changed, reloading.
+INFO 2023-05-07 18:38:29,349 Watching for file changes with StatReloader
+INFO 2023-05-07 18:38:33,399 D:\Django Projects\revenue_app-1\apps\students\signals.py changed, reloading.
+INFO 2023-05-07 18:38:42,623 Watching for file changes with StatReloader
+INFO 2023-05-07 18:38:52,240 Watching for file changes with StatReloader
+INFO 2023-05-07 18:39:03,004 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-07 18:39:07,412 "GET /student/download-csv/ HTTP/1.1" 200 138
+INFO 2023-05-07 18:40:26,094 D:\Django Projects\revenue_app-1\apps\students\views.py changed, reloading.
+INFO 2023-05-07 18:40:33,423 Watching for file changes with StatReloader
+ERROR 2023-05-07 18:41:44,373 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.enrollment_number
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 69, in create_bulk_student
+    check = Student.objects.filter(enrollment_number=reg).exists()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\query.py", line 569, in has_results
+    return compiler.has_results()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1528, in has_results
+    return bool(self.execute_sql(SINGLE))
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.enrollment_number
+ERROR 2023-05-07 18:41:44,421 "POST /student/upload/ HTTP/1.1" 500 186744
+INFO 2023-05-07 18:42:39,950 Watching for file changes with StatReloader
+ERROR 2023-05-07 18:42:47,566 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: students_student.enrollment_number
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 69, in create_bulk_student
+    check = Student.objects.filter(enrollment_number=reg).exists()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\query.py", line 569, in has_results
+    return compiler.has_results()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1528, in has_results
+    return bool(self.execute_sql(SINGLE))
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1560, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\Django Projects\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: students_student.enrollment_number
+ERROR 2023-05-07 18:42:47,606 "POST /student/upload/ HTTP/1.1" 500 186744
+INFO 2023-05-07 18:44:14,323 Watching for file changes with StatReloader
+INFO 2023-05-07 18:44:19,531 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:44:19,611 "GET /accounts/login/ HTTP/1.1" 200 3819
+INFO 2023-05-07 18:44:27,404 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:44:27,733 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-07 18:44:31,051 "GET /student/list HTTP/1.1" 200 9562
+INFO 2023-05-07 18:44:32,883 "GET /student/create/ HTTP/1.1" 200 16656
+INFO 2023-05-07 18:44:36,466 "GET /student/upload/ HTTP/1.1" 200 9628
+ERROR 2023-05-07 18:44:45,245 Internal Server Error: /student/upload/
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\contrib\messages\views.py", line 12, in form_valid
+    response = super().form_valid(form)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+                  ^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\base.py", line 892, in save_base
+    post_save.send(
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 176, in send
+    return [
+           ^
+  File "D:\Django Projects\env\Lib\site-packages\django\dispatch\dispatcher.py", line 177, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\students\signals.py", line 91, in create_bulk_student
+    Student.objects.bulk_create(students)
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1831, in _batched_insert
+    self._insert(
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1819, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1743, in as_sql
+    value_rows = [
+                 ^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1744, in <listcomp>
+    [
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1745, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1684, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1469, in get_db_prep_value
+    value = self.get_prep_value(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1464, in get_prep_value
+    return self.to_python(value)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\db\models\fields\__init__.py", line 1430, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['“8-12-12” value has an invalid date format. It must be in YYYY-MM-DD format.']
+ERROR 2023-05-07 18:44:45,261 "POST /student/upload/ HTTP/1.1" 500 194303
+INFO 2023-05-07 18:45:27,427 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:45:27,569 "GET /student/list HTTP/1.1" 200 9985
+WARNING 2023-05-07 18:45:32,995 Not Found: /student/10001/
+WARNING 2023-05-07 18:45:32,995 "GET /student/10001/ HTTP/1.1" 404 7061
+WARNING 2023-05-07 18:46:55,662 Not Found: /student/10001/
+WARNING 2023-05-07 18:46:55,662 "GET /student/10001/ HTTP/1.1" 404 7061
+INFO 2023-05-07 18:46:57,310 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 18:47:01,654 "GET /student/1/ HTTP/1.1" 200 11338
+INFO 2023-05-07 18:47:01,782 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2023-05-07 18:47:11,890 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 18:47:14,888 "GET /student/1/ HTTP/1.1" 200 11338
+INFO 2023-05-07 18:47:22,827 "GET /student/upload/ HTTP/1.1" 200 9628
+INFO 2023-05-07 18:47:31,661 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:47:31,789 "GET /student/list HTTP/1.1" 200 9981
+INFO 2023-05-07 18:47:34,518 "GET /student/1/ HTTP/1.1" 200 11338
+INFO 2023-05-07 18:47:36,187 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 18:47:38,371 "GET /finance/list/ HTTP/1.1" 200 9422
+INFO 2023-05-07 18:47:40,043 "GET /finance/create/ HTTP/1.1" 200 11422
+INFO 2023-05-07 18:47:53,853 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-07 18:47:58,715 "GET / HTTP/1.1" 200 12292
+INFO 2023-05-07 18:50:02,525 D:\Django Projects\revenue_app-1\csc_app\settings.py changed, reloading.
+INFO 2023-05-07 18:50:15,684 Watching for file changes with StatReloader
+INFO 2023-05-07 18:50:59,016 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 18:51:05,470 Watching for file changes with StatReloader
+INFO 2023-05-07 18:51:55,714 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 18:52:00,595 Watching for file changes with StatReloader
+INFO 2023-05-07 18:52:04,831 "GET /finance/list/ HTTP/1.1" 200 9422
+INFO 2023-05-07 18:52:09,736 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 18:52:12,374 "GET /student/1/ HTTP/1.1" 200 11338
+INFO 2023-05-07 18:52:14,496 "GET /finance/list/ HTTP/1.1" 200 9422
+INFO 2023-05-07 18:52:16,549 "GET /finance/create/ HTTP/1.1" 200 11422
+INFO 2023-05-07 18:52:27,333 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-05-07 18:52:27,549 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-05-07 18:52:27,925 "GET /finance/list/ HTTP/1.1" 200 9800
+INFO 2023-05-07 18:52:31,831 "GET /finance/1/detail/ HTTP/1.1" 200 10572
+INFO 2023-05-07 18:52:36,534 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 18:57:19,275 D:\Django Projects\revenue_app-1\csc_app\settings.py changed, reloading.
+INFO 2023-05-07 18:57:26,048 Watching for file changes with StatReloader
+INFO 2023-05-07 18:57:50,403 D:\Django Projects\revenue_app-1\csc_app\settings.py changed, reloading.
+INFO 2023-05-07 18:57:57,921 Watching for file changes with StatReloader
+INFO 2023-05-07 19:01:20,033 D:\Django Projects\revenue_app-1\csc_app\settings.py changed, reloading.
+INFO 2023-05-07 19:05:35,800 Watching for file changes with StatReloader
+INFO 2023-05-07 19:07:45,037 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 19:07:59,005 Watching for file changes with StatReloader
+INFO 2023-05-07 19:08:07,900 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 19:15:57,506 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 19:15:59,539 "GET /student/create/ HTTP/1.1" 200 16690
+INFO 2023-05-07 19:20:22,547 D:\Django Projects\revenue_app-1\apps\students\views.py changed, reloading.
+INFO 2023-05-07 19:20:35,905 Watching for file changes with StatReloader
+INFO 2023-05-07 19:20:40,464 "GET /finance/list/ HTTP/1.1" 200 9800
+INFO 2023-05-07 19:20:43,392 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 19:21:24,951 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 19:21:30,058 Watching for file changes with StatReloader
+INFO 2023-05-07 19:21:34,139 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10653
+INFO 2023-05-07 19:26:13,577 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:26:21,862 Watching for file changes with StatReloader
+INFO 2023-05-07 19:28:25,627 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 19:28:31,402 Watching for file changes with StatReloader
+INFO 2023-05-07 19:43:38,283 Watching for file changes with StatReloader
+INFO 2023-05-07 19:43:46,900 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 19:44:03,291 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:44:10,436 Watching for file changes with StatReloader
+INFO 2023-05-07 19:44:15,286 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 19:47:02,395 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:47:08,301 Watching for file changes with StatReloader
+INFO 2023-05-07 19:47:12,972 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10668
+INFO 2023-05-07 19:47:35,270 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 19:47:41,868 Watching for file changes with StatReloader
+INFO 2023-05-07 19:47:46,470 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10543
+INFO 2023-05-07 19:48:26,975 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 200 10672
+INFO 2023-05-07 19:48:40,366 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:48:50,862 Watching for file changes with StatReloader
+INFO 2023-05-07 19:49:58,831 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 19:50:34,511 Watching for file changes with StatReloader
+INFO 2023-05-07 19:50:40,664 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 200 10677
+INFO 2023-05-07 19:50:49,610 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 200 10677
+INFO 2023-05-07 19:50:51,701 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10571
+INFO 2023-05-07 19:50:57,733 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10571
+INFO 2023-05-07 19:51:14,584 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2023-05-07 19:51:14,904 "GET /finance/list/ HTTP/1.1" 200 9801
+INFO 2023-05-07 19:51:17,844 "GET /finance/1/detail/ HTTP/1.1" 200 10708
+INFO 2023-05-07 19:51:32,759 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:51:39,331 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:51:47,268 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:51:51,175 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:55:05,442 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:55:13,800 Watching for file changes with StatReloader
+INFO 2023-05-07 19:55:22,649 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:56:00,780 D:\Django Projects\revenue_app-1\apps\finance\forms.py changed, reloading.
+INFO 2023-05-07 19:56:05,741 Watching for file changes with StatReloader
+INFO 2023-05-07 19:56:14,723 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 19:59:01,323 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 19:59:09,739 "GET /student/1/ HTTP/1.1" 200 11823
+INFO 2023-05-07 19:59:12,236 "GET /finance/1/detail/ HTTP/1.1" 200 10708
+INFO 2023-05-07 20:00:27,324 "GET /finance/1/detail/ HTTP/1.1" 200 10595
+INFO 2023-05-07 20:00:50,624 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 20:00:53,688 "GET /student/1/ HTTP/1.1" 200 11823
+INFO 2023-05-07 20:02:02,197 "GET /student/1/ HTTP/1.1" 200 11823
+INFO 2023-05-07 20:02:10,294 "GET /finance/list/ HTTP/1.1" 200 9801
+INFO 2023-05-07 20:02:13,739 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 20:02:18,868 "GET /finance/1/detail/ HTTP/1.1" 200 10595
+INFO 2023-05-07 20:26:15,520 Watching for file changes with StatReloader
+INFO 2023-05-07 20:26:25,291 "GET / HTTP/1.1" 200 12298
+INFO 2023-05-07 20:26:26,745 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-05-07 20:26:26,747 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2023-05-07 20:26:26,786 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2023-05-07 20:26:26,799 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2023-05-07 20:26:27,227 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2023-05-07 20:26:29,077 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2023-05-07 20:26:29,081 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2023-05-07 20:26:29,110 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2023-05-07 20:26:29,126 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2023-05-07 20:26:29,162 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2023-05-07 20:26:29,261 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2023-05-07 20:26:29,302 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2023-05-07 20:26:30,049 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2023-05-07 20:26:30,072 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-05-07 20:26:30,100 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+WARNING 2023-05-07 20:26:33,583 Not Found: /favicon.ico
+WARNING 2023-05-07 20:26:33,584 "GET /favicon.ico HTTP/1.1" 404 7166
+INFO 2023-05-07 20:26:34,137 "GET /student/list HTTP/1.1" 200 9836
+INFO 2023-05-07 20:26:41,739 "GET /student/create/ HTTP/1.1" 200 16690
+INFO 2023-05-07 20:27:15,773 "GET /staff/list/ HTTP/1.1" 200 9383
+INFO 2023-05-07 20:27:18,654 "GET /finance/list/ HTTP/1.1" 200 9801
+INFO 2023-05-07 20:27:21,863 "GET /finance/create/ HTTP/1.1" 200 11422
+INFO 2023-05-07 20:27:29,601 - Broken pipe from ('127.0.0.1', 49758)
+INFO 2023-05-07 20:27:30,223 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10572
+INFO 2023-05-07 20:27:39,711 "GET /revenue/today HTTP/1.1" 200 10098
+ERROR 2023-05-07 20:27:42,713 Internal Server Error: /revenue/month
+Traceback (most recent call last):
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\revenue\views.py", line 48, in month_income
+    return render(request ,"month.html",context={
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Django Projects\env\Lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+              ^^^^^^^^^
+  File "D:\Django Projects\revenue_app-1\apps\finance\models.py", line 64, in regno
+    return self.invoice.student.registration_number
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Student' object has no attribute 'registration_number'
+ERROR 2023-05-07 20:27:42,774 "GET /revenue/month HTTP/1.1" 500 203700
+INFO 2023-05-07 20:30:01,643 D:\Django Projects\revenue_app-1\apps\finance\models.py changed, reloading.
+INFO 2023-05-07 20:30:07,903 Watching for file changes with StatReloader
+INFO 2023-05-07 20:30:22,126 "GET /revenue/today HTTP/1.1" 200 10098
+INFO 2023-05-07 20:30:23,630 "GET /revenue/month HTTP/1.1" 200 11028
+INFO 2023-05-07 20:30:30,549 "GET /revenue/revenue HTTP/1.1" 200 9921
+INFO 2023-05-07 20:30:36,893 "GET /source/list/ HTTP/1.1" 200 10777
+INFO 2023-05-07 20:30:45,936 "POST /source/create/ HTTP/1.1" 302 0
+INFO 2023-05-07 20:30:46,184 "GET /source/list/ HTTP/1.1" 200 11205
+INFO 2023-05-07 20:30:49,585 "GET /subject/list/ HTTP/1.1" 200 11016
+INFO 2023-05-07 20:30:52,268 "GET /class/list/ HTTP/1.1" 200 11034
+INFO 2023-05-07 20:30:54,561 "GET /site-config HTTP/1.1" 200 9800
+INFO 2023-05-07 20:30:56,441 "GET /revenue/revenue HTTP/1.1" 200 9921
+INFO 2023-05-07 20:30:58,461 "GET /student/list HTTP/1.1" 200 9836

@@ -55,7 +55,7 @@ class InvoiceDetailView(LoginRequiredMixin, DetailView):
 
 class InvoiceUpdateView(LoginRequiredMixin, UpdateView):
     model = Invoice
-    fields = ["student", "session", "term", "class_for", "balance_from_previous_term"]
+    fields = ["student", "class_for"]
 
     def get_context_data(self, **kwargs):
         context = super(InvoiceUpdateView, self).get_context_data(**kwargs)

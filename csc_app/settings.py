@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -82,7 +83,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "csc_app.wsgi.application"
 
-
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
@@ -118,7 +118,21 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = "UTC"
+TIME_ZONE = "Asia/Kolkata"
+
+DATE_FORMAT = 'd-m-Y'
+USE_TZ = True
+
+DATE_INPUT_FORMATS = [
+    '%d/%m/%Y',
+    '%d-%m-%Y',
+    '%d/%m/%y',
+    '%d-%m-%y',
+    '%Y-%m-%d %H:%M:%S',
+    '%Y-%m-%d %H:%M',
+    '%Y-%m-%d',
+    '%d-%m-%Y'
+]
 
 USE_I18N = True
 

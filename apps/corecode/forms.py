@@ -7,6 +7,7 @@ from .models import (
     SiteConfig,
     StudentClass,
     Subject,
+    scheme,
 )
 
 SiteConfigForm = modelformset_factory(
@@ -50,6 +51,12 @@ class StudentClassForm(ModelForm):
         model = StudentClass
         fields = ["name"]
 
+class schemeForm(ModelForm):
+    prefix = "scheme"
+
+    class Meta:
+        model = scheme
+        fields = ["name"]
 
 class CurrentSessionForm(forms.Form):
     current_session = forms.ModelChoiceField(

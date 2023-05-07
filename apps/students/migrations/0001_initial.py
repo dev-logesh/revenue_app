@@ -50,7 +50,7 @@ class Migration(migrations.Migration):
                         max_length=10,
                     ),
                 ),
-                ("registration_number", models.CharField(max_length=200, unique=True)),
+                ("enrollment_number", models.CharField(max_length=200, unique=True)),
                 ("surname", models.CharField(max_length=200)),
                 ("firstname", models.CharField(max_length=200)),
                 ("other_name", models.CharField(blank=True, max_length=200)),

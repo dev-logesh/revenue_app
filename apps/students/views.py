@@ -86,14 +86,21 @@ class DownloadCSVViewdownloadcsv(LoginRequiredMixin, View):
         writer = csv.writer(response)
         writer.writerow(
             [
-                "registration_number",
-                "surname",
-                "firstname",
-                "other_names",
+                "enrollment_number",
+                "name",
+                "dob",
+                "aadhar_no",
+                "fathername",
+                "Mother_name",
+                "course",
+                "source",
+                "doj",
+                "Total_fee",
                 "gender",
-                "parent_number",
+                "phone_number",
+                "Student_qualification",
                 "address",
-                "current_class",
+                
             ]
         )
 

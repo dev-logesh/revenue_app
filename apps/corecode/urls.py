@@ -2,6 +2,10 @@ from django.urls import path
 from django.contrib import admin
 
 from .views import (
+    SourceCreateView,
+    SourceDeleteView,
+    SourceListView,
+    SourceUpdateView,
     ClassCreateView,
     ClassDeleteView,
     ClassListView,
@@ -61,4 +65,8 @@ urlpatterns = [
         SubjectDeleteView.as_view(),
         name="subject-delete",
     ),
+    path("source/list/", SourceListView.as_view(), name="source"),
+    path("source/create/", SourceCreateView.as_view(), name="source-create"),
+    path("source/<int:pk>/update/", SourceUpdateView.as_view(), name="source-update"),
+    path("source/<int:pk>/delete/", SourceDeleteView.as_view(), name="source-delete"),
 ]

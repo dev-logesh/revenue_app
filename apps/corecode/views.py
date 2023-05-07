@@ -15,6 +15,7 @@ from .forms import (
     SiteConfigForm,
     StudentClassForm,
     SubjectForm,
+    schemeForm
 )
 from .models import (
     AcademicSession,
@@ -22,6 +23,7 @@ from .models import (
     SiteConfig,
     StudentClass,
     Subject,
+    scheme,
 )
 
 
@@ -270,3 +272,41 @@ class CurrentSessionAndTermView(LoginRequiredMixin, View):
             AcademicTerm.objects.filter(name=term).update(current=True)
 
         return render(request, self.template_name, {"form": form})
+class SourceListView(LoginRequiredMixin, SuccessMessageMixin, ListView):
+    model = scheme
+    template_name = "corecode/source_list.html"
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context["form"] = schemeForm()
+        return context
+
+
+class SourceCreateView(LoginRequiredMixin, SuccessMessageMixin, CreateView):
+    model = scheme
+    form_class = schemeForm
+    template_name = "corecode/mgt_form.html"
+    success_url = reverse_lazy("source")
+    success_message = "New Scheme successfully added"
+
+
+class SourceUpdateView(LoginRequiredMixin, SuccessMessageMixin, UpdateView):
+    model = scheme
+    fields = ["name"]
+    success_url = reverse_lazy("source")
+    success_message = "scheme successfully updated."
+    template_name = "corecode/mgt_form.html"
+
+
+class SourceDeleteView(LoginRequiredMixin, DeleteView):
+    model = scheme
+    success_url = reverse_lazy("source")
+    template_name = "corecode/core_confirm_delete.html"
+    success_message = "The class {} has been deleted with all its attached content"
+
+    def delete(self, request, *args, **kwargs):
+        obj = self.get_object()
+        print(obj.name)
+        messages.success(self.request, self.success_message.format(obj.name))
+        return super(ClassDeleteView, self).delete(request, *args, **kwargs)
+

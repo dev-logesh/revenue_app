@@ -5,7 +5,7 @@ from io import StringIO
 from django.db.models.signals import post_delete, post_save
 from django.dispatch import receiver
 
-from apps.corecode.models import StudentClass
+from apps.corecode.models import StudentClass , scheme
 
 from .models import Student, StudentBulkUpload
 
@@ -17,49 +17,74 @@ def create_bulk_student(sender, created, instance, *args, **kwargs):
         reading = csv.DictReader(opened, delimiter=",")
         students = []
         for row in reading:
-            if "registration_number" in row and row["registration_number"]:
-                reg = row["registration_number"]
-                surname = row["surname"] if "surname" in row and row["surname"] else ""
-                firstname = (
-                    row["firstname"] if "firstname" in row and row["firstname"] else ""
+            if "enrollment_number" in row and row["enrollment_number"]:
+                reg = row["enrollment_number"]
+                name = row["name"] if "name" in row and row["name"] else ""
+                dob = (
+                    row["dob"] if "dob" in row and row["dob"] else ""
                 )
-                other_names = (
-                    row["other_names"]
-                    if "other_names" in row and row["other_names"]
+                an = (
+                    row["aadhar_no"]
+                    if "aadhar_no" in row and row["aadhar_no"]
                     else ""
                 )
-                gender = (
-                    (row["gender"]).lower() if "gender" in row and row["gender"] else ""
-                )
-                phone = (
-                    row["parent_number"]
-                    if "parent_number" in row and row["parent_number"]
-                    else ""
-                )
-                address = row["address"] if "address" in row and row["address"] else ""
+                fname = row["fathername"] if "fathername" in row and row["fathername"] else ""
+                mname = row["Mother_name"] if "Mother_name" in row and row["Mother_name"] else ""
                 current_class = (
-                    row["current_class"]
-                    if "current_class" in row and row["current_class"]
+                    row["course"]
+                    if "course" in row and row["course"]
                     else ""
                 )
                 if current_class:
                     theclass, kind = StudentClass.objects.get_or_create(
                         name=current_class
                     )
+                
+                source = row["source"] if "source" in row and row["source"] else ""
+                if source:
+                    sche, kind = scheme.objects.get_or_create(
+                        name=source
+                    )
+                
+                doj = (
+                    row["doj"]
+                    if "doj" in row and row["doj"]
+                    else ""
+                )
+                
+                fee = row["Total_fee"] if "Total_fee" in row and row["Total_fee"] else ""
+                gender = (
+                    (row["gender"]).lower() if "gender" in row and row["gender"] else ""
+                )
+                
+                phone = (
+                    row["phone_number"]
+                    if "phone_number" in row and row["phone_number"]
+                    else ""
+                )
+                quli = row["Student_qualification"] if "Student_qualification" in row and row["Student_qualification"] else ""
+                address = row["address"] if "address" in row and row["address"] else ""
+                
 
-                check = Student.objects.filter(registration_number=reg).exists()
+                check = Student.objects.filter(enrollment_number=reg).exists()
                 if not check:
                     students.append(
                         Student(
-                            registration_number=reg,
-                            surname=surname,
-                            firstname=firstname,
-                            other_name=other_names,
+                            enrollment_number=reg,
+                            Total_fee = fee,
+                            mother_name = mname,
+                            student_qulaification = quli,
+                            name=name,
+                            guardian_name = fname,
+                            aadhar_no = an,
+                            date_of_birth = dob,
+                            date_of_admission =doj,
                             gender=gender,
-                            current_class=theclass,
+                            course=theclass,
                             parent_mobile_number=phone,
                             address=address,
                             current_status="active",
+                            Source = sche,
                         )
                     )
 

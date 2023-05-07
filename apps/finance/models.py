@@ -1,6 +1,7 @@
 from django.db import models
 from django.urls import reverse
 from django.utils import timezone
+from datetime import*
 
 from apps.corecode.models import AcademicSession, AcademicTerm, StudentClass
 from apps.students.models import Student
@@ -9,18 +10,10 @@ from apps.students.models import Student
 class Invoice(models.Model):
     total_num = 0
     student = models.ForeignKey(Student, on_delete=models.CASCADE)
-    session = models.ForeignKey(AcademicSession, on_delete=models.CASCADE)
-    term = models.ForeignKey(AcademicTerm, on_delete=models.CASCADE)
     class_for = models.ForeignKey(StudentClass, on_delete=models.CASCADE)
-    balance_from_previous_term = models.IntegerField(default=0)
-    status = models.CharField(
-        max_length=20,
-        choices=[("active", "Active"), ("closed", "Closed")],
-        default="active",
-    )
 
     class Meta:
-        ordering = ["student", "term"]
+        ordering = ["student"]
 
     def __str__(self):
         return f"{self.student}"
@@ -38,7 +31,7 @@ class Invoice(models.Model):
         return total
 
     def total_amount_payable(self):
-        return self.balance_from_previous_term + self.amount_payable()
+        return  self.amount_payable()
 
     def total_amount_paid(self):
         receipts = Receipt.objects.filter(invoice=self)
@@ -61,16 +54,16 @@ class Receipt(models.Model):
     Bill_No = models.CharField(max_length=245 , default=None)
     invoice = models.ForeignKey(Invoice, on_delete=models.CASCADE)
     amount_paid = models.IntegerField()
-    date_paid = models.DateField(default=timezone.now)
+    date_paid = models.DateTimeField(default=datetime.now())
     comment = models.CharField(max_length=200, blank=True)
     def stats(self):
         return self.invoice.student.current_status
     def current_cls(self):
-        return self.invoice.student.current_class
+        return self.invoice.student.course
     def regno(self):
-        return self.invoice.student.registration_number
+        return self.invoice.student.enrollment_number
     def name(self):
-        return self.invoice.student.surname
+        return self.invoice.student.name
     def __str__(self):
         return f"Receipt on {self.date_paid}"
     
